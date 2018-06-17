@@ -7,3 +7,27 @@
 [submodule "guld"]
 	path = guld
 	url = git@bitbucket.org:guld/guld.git
+[submodule "pokerface"]
+	path = pokerface
+	url = git@bitbucket.org:ggpokerface/pokerface.git
+[submodule "derekshalom"]
+	path = derekshalom
+	url = git@bitbucket.org:derekshalom/derekshalom.git
+[submodule "zimmi"]
+	path = zimmi
+	url = git@bitbucket.org:zimmiglobal/zimmi.git
+[submodule "gg"]
+	path = gg
+	url = git@bitbucket.org:guldgames/gg.git
+[submodule "mizim"]
+	path = mizim
+	url = git@bitbucket.org:mizim/mizim.git
+[submodule "raadyx"]
+	path = raadyx
+	url = git@bitbucket.org:raadyx/raadyx.git
+[submodule "tigoctm"]
+	path = tigoctm
+	url = git@bitbucket.org:tigoctm/tigoctm.git
+[submodule "ptyglass"]
+	path = ptyglass
+	url = git@bitbucket.org:ptyglass/ptyglass.git
