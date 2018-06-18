@@ -31,3 +31,6 @@
 [submodule "ptyglass"]
 	path = ptyglass
 	url = git@bitbucket.org:ptyglass/ptyglass.git
+[submodule "fdreyfus"]
+	path = fdreyfus
+	url = git@bitbucket.org:ferdreyfus/fdreyfus.git
